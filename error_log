@@ -1,0 +1,5 @@
+[09-May-2023 04:24:45 UTC] PHP Fatal error:  Cannot redeclare Admin::index() in /home/ficuslotco/public_html/demo/owaiz-architects/application/controllers/Admin.php on line 344
+[09-May-2023 04:25:48 UTC] PHP Fatal error:  Cannot redeclare Admin::projects() in /home/ficuslotco/public_html/demo/owaiz-architects/application/controllers/Admin.php on line 344
+[09-May-2023 04:27:08 UTC] PHP Fatal error:  Cannot redeclare Admin::addproject_process() in /home/ficuslotco/public_html/demo/owaiz-architects/application/controllers/Admin.php on line 347
+[09-May-2023 04:28:31 UTC] PHP Fatal error:  Cannot redeclare Admin::mail_process() in /home/ficuslotco/public_html/demo/owaiz-architects/application/controllers/Admin.php on line 346
+[09-May-2023 04:29:37 UTC] PHP Fatal error:  Cannot redeclare Admin::editProject_process() in /home/ficuslotco/public_html/demo/owaiz-architects/application/controllers/Admin.php on line 343
